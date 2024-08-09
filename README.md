@@ -25,7 +25,7 @@ The script uses K-Means, a Machine Learning clustering algorithm, to cluster all
 - Numpy
 - Matplotlib
 
-### Instructions
+### Instructions 
 - Download script.py in your required directory.
 - Run python script.py _yourfilenamehere.png_ in your terminal.
 
